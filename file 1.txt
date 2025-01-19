@@ -3,3 +3,6 @@ import pandas as pd
 #percobaan
 
 #code baru
+
+#coba code lagi
+import seaborn as sns
